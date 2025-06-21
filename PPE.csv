@@ -1,0 +1,10 @@
+﻿Month,Stock (PPE),Demand(PPE),Lead Time(PPE),Safety Stock(PPE),RE-order with out safety stock,,,,
+April,50000,12500,2,5000,25000,,,,
+May,37500,7550,1,1510,7550,,,,
+June,29950,5000,1,1000,5000,,,,
+July,44950,7000,1,1400,7000,,,,
+August,37950,4000,2,1600,8000,,,,
+September,62390,10000,2,4000,20000,,,,
+October,52390,6000,2,2400,12000,,,,
+,,,,,,,,,1:re order without=demand * lead time 
+,,,,,,,,,2:ss=(0.2*re-order without)

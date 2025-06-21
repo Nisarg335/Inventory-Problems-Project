@@ -1,0 +1,8 @@
+﻿Month,Stock,Demand,Lead Time,Safety Stock,RE-order with out safety stock
+April,25000,7000,2,2800,14000
+May,18000,5000,1,1000,5000
+June,13000,8000,1,1600,8000
+July,19000,1000,1,2000,10000
+August,14000,4000,2,1600,8000
+September,10000,6000,2,2400,12000
+October,12000,2000,2,4000,20000
